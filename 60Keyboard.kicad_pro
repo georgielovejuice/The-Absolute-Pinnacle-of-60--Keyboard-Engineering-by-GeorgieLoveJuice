@@ -469,8 +469,8 @@
       "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
-      "svg": "",
+      "step": "60Keyboard.step",
+      "svg": "../",
       "vrml": ""
     },
     "page_layout_descr_file": ""
